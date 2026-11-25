@@ -128,7 +128,7 @@ Recordatorio: sábado por medio a las 10:30 am en "✨ Building my future": "�
 
 ## Respaldo en GitHub
 
-Este skill vive en `D:\community-manager\skill\` (la carpeta `~/.claude/skills/community-manager` es un acceso directo a ella) y está respaldado en el repositorio privado `valdatcom/community-manager` (rama `main`). Es distinto de `editor-videos-long-form` y de `editor-videos`: no los mezcles.
+Este skill vive en `D:\community-manager\skill\` (la carpeta `~/.claude/skills/community-manager` es un acceso directo a ella) y está respaldado en el repositorio privado `valdatcom/community-manager-agent` (rama `main`). Es distinto de `editor-videos-long-form` y de `editor-videos`: no los mezcles.
 
 Cada vez que en una tanda de trabajo aprendamos algo nuevo (una regla de Val, un error y su arreglo, un ID nuevo), anótalo en este archivo y, al cerrar la tanda, ofrécele a Val subir los cambios (commit y push a `main`). Nunca subas videos ni contraseñas.
 

@@ -10,7 +10,7 @@ Todo lo que sabe hacer está en un solo archivo: `skill/SKILL.md`. Ahí están l
 2. **Descarga este repositorio.** En PowerShell:
 
    ```powershell
-   git clone https://github.com/valdatcom/community-manager.git D:\community-manager
+   git clone https://github.com/valdatcom/community-manager-agent.git D:\community-manager
    ```
 
 3. **Conecta el skill con Claude.** En PowerShell (crea un acceso directo, así lo que se aprenda queda guardado en la carpeta del repositorio):
