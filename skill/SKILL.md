@@ -56,7 +56,7 @@ Si un render no está en esta computadora, para y avísale a Val: no se puede su
 
 ### Captions
 
-- **Cortos, con la voz de Val, sin explicar el clip.** Una o dos líneas y la invitación a YouTube. El video ya cuenta lo que pasa: el caption no lo resume ni lo repite. Suena a un comentario de ella al lado del video (una broma, una confesión, una pregunta), no a una descripción. Val recortó casi todos los primeros captions porque eran "demasiado explicativos, literales y obvios".
+- **Cortos, con la voz de Val, sin explicar el clip.** Una o dos líneas, el cierre (ver abajo) y la invitación a YouTube. El video ya cuenta lo que pasa: el caption no lo resume ni lo repite. Suena a un comentario de ella al lado del video (una broma, una confesión, una pregunta), no a una descripción. Val recortó casi todos los primeros captions porque eran "demasiado explicativos, literales y obvios".
   - Mal (explica): "Para mi primera web agarré la página de una marketer muy conocida. No me gustan sus colores... Si estás armando las referencias de diseño de un proyecto, guarda lo que te gusta y también lo que no."
   - Bien (comenta): "Sí, es contigo 👀" / "Mi autocontrol y yo contra el scroll 💪😤" / "Culpable, lo admito."
   - No le pongas a Val un problema que no tiene. Si el clip describe algo que le pasa a la gente (no a ella), el caption le habla a quien lo ve.
@@ -70,7 +70,15 @@ Si un render no está en esta computadora, para y avísale a Val: no se puede su
   - Sin cierres genéricos ni moralejas inventadas.
 - Palabras que alguien buscaría en TikTok: solo si caben naturales. Nunca alargues el caption por eso.
 - **Máximo 3 hashtags.**
-- Invita al video completo en YouTube. Estilo de Val: cierra con "Video completo en mi canal de youtube, xo ✨" y, por ahora, sin hashtags.
+- **El objetivo del feed son guardados y comentarios** (desde el reporte del mes 1, 27-11-2026). Ya no cierres solo con la invitación a YouTube: los nuggets que cerraban así bajaron de 650–900 vistas a 250–370 y casi nadie los guardó. Cada caption cierra con **una** de estas dos cosas:
+  - Una invitación a guardar que diga para qué: "guárdalo para la próxima vez que…".
+  - Una pregunta concreta que se responda en una línea.
+- **Que suene a Val hablando con una amiga, no a fórmula.** Cambia las palabras en cada caption para que no se sienta copiado y pegado. No repitas el mismo cierre en dos posts de la misma semana. Ejemplos del tono, no plantillas:
+  - "Guárdalo para cuando te toque armar tu próximo brief."
+  - "Te lo dejo aquí para el día que tu calendario se vuelva un caos."
+  - "¿Tú también organizas todo por WhatsApp o ya te salvaste?"
+  - "¿Cuál fue tu primera red flag con un cliente?"
+- La mención a YouTube va **después**, en una línea aparte. También vale variarla ("Video completo en mi canal de youtube, xo ✨", "La historia completa está en YouTube ✨"). Por ahora, sin hashtags.
 - Val revisa los captions **en Notion** antes de programar: escríbelos siempre en la tarjeta (campo Caption), no solo en el chat. No programes un caption que ella no aprobó.
 - Val suele mejorar los captions directo en Notion. Antes de programar, **vuelve a leer la tarjeta** con `notion-fetch` y usa lo que ella dejó escrito. Si trae errores de tipeo o le faltan acentos ("flata", "razon"), corrígelos, usa el mismo texto corregido en Buffer y en Notion, y dile qué cambiaste. No cambies nada más de su texto.
 - Hay más clips aprobados que días de lunes a jueves (ej. un quinto clip): ponlo el domingo antes de la semana para dejar el miércoles libre para el carrusel, y díselo a Val.
