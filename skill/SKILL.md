@@ -123,8 +123,11 @@ Recordatorio: sábado por medio a las 10:30 am en "✨ Building my future": "�
 5. Dile a Val que en cada borrador: elija **Trial Reel › Manual**, cambie la portada (para que Instagram no lo vea como video repetido) y lo programe con la flecha junto a "Now". **Cadencia: uno cada 3 días a las 6:00 pm** (Instagram juzga cada trial en sus primeras 72 horas; así no se pisan). Con el recordatorio del sábado quedan: lunes, jueves, domingo y miércoles siguientes, y el próximo sábado de trials arranca otra tanda sin hueco. Dale las fechas exactas. **No "Save Draft"**: así se queda en borradores (le pasó con el A2 la primera vez).
 6. Después revisa con `get_post` que hayan quedado `scheduled` o `sent`, y agrega los reels a la lista de abajo.
 
+**Val también hace trial reels a mano, como experimento.** Los borradores de Instagram en Buffer suelen ser suyos (trials en preparación) y el orden respecto al original no le preocupa. No los borres ni los señales como problema al revisar Buffer.
+
 **Reels que ya fueron a trial** (por su caption):
 - 18-11-2026: "Mi autocontrol y yo contra el scroll" (A2 LeerLibro), "The Simple Life, versión llanera", "Culpable.", "No caption needed".
+- 23-11-2026 (los hizo Val en Buffer): "Gracias PPPPERRROOO ¿y los cuatro días libres?" (Aplaudimos N1), "siempre extra" (Aplaudimos P1), "Spoiler: ahora solo me falta tener más manos" (Experimento 6pm A1).
 
 ## Respaldo en GitHub
 
