@@ -73,10 +73,10 @@ Si un render no está en esta computadora, para y avísale a Val: no se puede su
 - **El objetivo del feed son guardados y comentarios** (desde el reporte del mes 1, 27-11-2026). Ya no cierres solo con la invitación a YouTube: los nuggets que cerraban así bajaron de 650–900 vistas a 250–370 y casi nadie los guardó. Cada caption cierra con **una** de estas dos cosas:
   - Una invitación a guardar que diga para qué: "guárdalo para la próxima vez que…".
   - Una pregunta concreta que se responda en una línea.
-- **Que suene a Val hablando con una amiga, no a fórmula.** Cambia las palabras en cada caption para que no se sienta copiado y pegado. No repitas el mismo cierre en dos posts de la misma semana. Ejemplos del tono, no plantillas:
+- **Que suene a Val, no a fórmula ni a español neutro.** Ella habla venezolano, directo y con picardía: "se vuelve un 8" (no "un caos"), "un asco", y se atreve a picar a quien la ve. Cambia las palabras en cada caption para que no se sienta copiado y pegado. No repitas el mismo cierre en dos posts de la misma semana. Ejemplos de Val (tono, no plantillas):
+  - "Te lo dejo aquí para el día que tu calendario se vuelva un 8."
+  - "Si tú eres el que organiza todo por WhatsApp, no deberías estar aquí 👀"
   - "Guárdalo para cuando te toque armar tu próximo brief."
-  - "Te lo dejo aquí para el día que tu calendario se vuelva un caos."
-  - "¿Tú también organizas todo por WhatsApp o ya te salvaste?"
   - "¿Cuál fue tu primera red flag con un cliente?"
 - La mención a YouTube va **después**, en una línea aparte. También vale variarla ("Video completo en mi canal de youtube, xo ✨", "La historia completa está en YouTube ✨"). Por ahora, sin hashtags.
 - Val revisa los captions **en Notion** antes de programar: escríbelos siempre en la tarjeta (campo Caption), no solo en el chat. No programes un caption que ella no aprobó.
